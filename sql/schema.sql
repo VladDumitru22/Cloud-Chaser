@@ -1,5 +1,5 @@
-CREATE DATABASE `socialboost_db`;
-USE `socialboost_db`;
+CREATE DATABASE `cloud_chaser_db`;
+USE `cloud_chaser_db`;
 
 CREATE TABLE `clients` (
 `id_client` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT,
